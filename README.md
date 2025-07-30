@@ -2,11 +2,6 @@
 
 A responsive, clean, and fast calculator app built using **React** and **Vite**, deployed on **GitHub Pages**.
 
-## 🌐 Live Demo
-
-👉 [Click here to try it now](https://0kisiddhi.github.io/React-Calculator/)
-
----
 
 ## 🚀 Features
 
