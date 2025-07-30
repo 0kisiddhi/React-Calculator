@@ -1,3 +1,42 @@
+# 🔢 React Calculator
+
+A responsive, clean, and fast calculator app built using **React** and **Vite**, deployed on **GitHub Pages**.
+
+## 🌐 Live Demo
+
+👉 [Click here to try it now](https://0kisiddhi.github.io/React-Calculator/)
+
+---
+
+## 🚀 Features
+
+- Perform basic arithmetic: ➕ ➖ ✖️ ➗
+- Real-time calculations
+- User-friendly UI
+- Fully responsive design
+- Built with React + Vite for fast performance
+
+---
+
+## 💻 Tech Stack
+
+- React JS
+- Vite
+- JavaScript (ES6+)
+- HTML/CSS
+
+---
+
+<img width="442" height="711" alt="Screenshot 2025-07-30 103335" src="https://github.com/user-attachments/assets/7160b2aa-2142-48f5-a110-4d2c686ccb17" />
+
+
+
+
+
+
+
+'
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
